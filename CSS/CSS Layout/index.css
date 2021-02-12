@@ -1,0 +1,32 @@
+body {
+    background-color: lemonchiffon;
+}
+
+h1 {
+    color:  #BADA55;
+    font-family: Sans-Serif;
+    font-size: x-large;
+}
+
+div {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+}
+
+h2 {
+    color: SlateBlue;
+    font-family: Sans-Serif;
+    font-size: large;
+}
+
+p {
+    font-family: Sans-Serif;
+}
+
+.text-italic {
+    color: #BADA55;
+    font-style: italic;
+    font-weight: bold;
+}
